@@ -1,2 +1,6 @@
 # gdpr.dk.au
-Work in progress - Experimenting with making a generic  GDPR package based on the work of Aarhus University relating to iPersonal data is defined as any kind of data which can be used to identify a person. If you handle personal data in the course of your work, it is important that you comply with the law governing this area. On this page, you can find out more about the General Data Protection Regulation (GDPR) and what you need to do to make sure you protect personal data.
+Work in progress - Experimenting with making a generic  GDPR package based on the work of Aarhus University 
+
+Baseline is the danish version - so until translated everything in this repository remains in danish.
+
+Forsættes...
